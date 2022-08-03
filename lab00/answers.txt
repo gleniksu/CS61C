@@ -1,4 +1,8 @@
-1.find
-2.readproctab
-3.kill
-4.cmp
+1.chown
+2.mv
+3.pwd
+4.ping
+5.find
+6..readproctab
+7.kill
+8.cmp
