@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-1.chown
-2.mv
-3.pwd
-4.ping
-5.find
-6..readproctab
-7.kill
-8.cmp
-=======
 1.ls
-2.find
-3.readproctab
-4.kill
-5.cmp
->>>>>>> 2aaaa8bc3bfc5be6a8e9886a8150f7986c25cb01
+2.chown
+3.mv
+4.pwd
+5.ping
+6.find
+7..readproctab
+8.kill
+9.cmp
